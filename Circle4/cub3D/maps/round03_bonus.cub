@@ -1,0 +1,65 @@
+NO ./assets/textures/wall/wall_base.xpm
+SO ./assets/textures/wall/wall_base.xpm
+WE ./assets/textures/wall/wall_base.xpm
+EA ./assets/textures/wall/wall_base.xpm
+F 220,100,0 ./assets/textures/background/floor.xpm
+C 225,30,0 ./assets/textures/background/ceil00.xpm ./assets/textures/background/ceil01.xpm ./assets/textures/background/ceil02.xpm
+Da ./assets/textures/door/door00_frame.xpm ./assets/textures/door/door00_panel.xpm ./assets/textures/door/door00_inner.xpm ./assets/textures/door/door00_inner.xpm ./assets/textures/door/door00_inner.xpm
+Db ./assets/textures/door/door01_frame.xpm ./assets/textures/door/door01_panel.xpm ./assets/textures/door/door00_inner.xpm ./assets/textures/door/door00_inner.xpm ./assets/textures/door/door00_inner.xpm
+G ./assets/textures/wall/wall_goal.xpm
+T ./assets/textures/wall/wall_cafe.xpm ./assets/textures/wall/wall_hotel.xpm
+P ./assets/textures/hand/idle_00.xpm
+P_Aa ./assets/textures/hand/shot_00.xpm ./assets/textures/hand/shot_01.xpm ./assets/textures/hand/shot_02.xpm ./assets/textures/hand/shot_03.xpm ./assets/textures/hand/shot_04.xpm
+P_D ./assets/textures/effect/pain_00.xpm ./assets/textures/effect/pain_01.xpm ./assets/textures/effect/pain_02.xpm
+H ./assets/textures/hud/hud_00.xpm ./assets/textures/hud/hud_01.xpm ./assets/textures/hud/hud_02.xpm ./assets/textures/hud/hud_03.xpm ./assets/textures/hud/hud_04.xpm ./assets/textures/hud/hud_05.xpm ./assets/textures/hud/hud_06.xpm ./assets/textures/hud/hud_07.xpm ./assets/textures/hud/hud_08.xpm ./assets/textures/hud/hud_09.xpm ./assets/textures/hud/hud_10.xpm ./assets/textures/hud/hud_11.xpm
+Ma_F ./assets/textures/mob/man_front_00.xpm ./assets/textures/mob/man_front_01.xpm ./assets/textures/mob/man_front_02.xpm ./assets/textures/mob/man_front_03.xpm
+Ma_B ./assets/textures/mob/man_back_00.xpm ./assets/textures/mob/man_back_01.xpm ./assets/textures/mob/man_back_02.xpm ./assets/textures/mob/man_back_03.xpm
+Ma_L ./assets/textures/mob/man_left_00.xpm ./assets/textures/mob/man_left_01.xpm ./assets/textures/mob/man_left_02.xpm ./assets/textures/mob/man_left_03.xpm
+Ma_R ./assets/textures/mob/man_right_00.xpm ./assets/textures/mob/man_right_01.xpm ./assets/textures/mob/man_right_02.xpm ./assets/textures/mob/man_right_03.xpm
+Ma_A ./assets/textures/mob/man_attack_00.xpm ./assets/textures/mob/man_attack_01.xpm ./assets/textures/mob/man_attack_02.xpm ./assets/textures/mob/man_attack_03.xpm
+Ma_D ./assets/textures/mob/man_death_00.xpm ./assets/textures/mob/man_death_01.xpm ./assets/textures/mob/man_death_02.xpm ./assets/textures/mob/man_death_03.xpm
+Mb_F ./assets/textures/mob/woman_front_00.xpm ./assets/textures/mob/woman_front_01.xpm ./assets/textures/mob/woman_front_02.xpm ./assets/textures/mob/woman_front_03.xpm
+Mb_B ./assets/textures/mob/woman_back_00.xpm ./assets/textures/mob/woman_back_01.xpm ./assets/textures/mob/woman_back_02.xpm ./assets/textures/mob/woman_back_03.xpm
+Mb_L ./assets/textures/mob/woman_left_00.xpm ./assets/textures/mob/woman_left_01.xpm ./assets/textures/mob/woman_left_02.xpm ./assets/textures/mob/woman_left_03.xpm
+Mb_R ./assets/textures/mob/woman_right_00.xpm ./assets/textures/mob/woman_right_01.xpm ./assets/textures/mob/woman_right_02.xpm ./assets/textures/mob/woman_right_03.xpm
+Mb_A ./assets/textures/mob/woman_attack_00.xpm ./assets/textures/mob/woman_attack_01.xpm ./assets/textures/mob/woman_attack_02.xpm ./assets/textures/mob/woman_attack_03.xpm
+Mb_D ./assets/textures/mob/woman_death_00.xpm ./assets/textures/mob/woman_death_01.xpm ./assets/textures/mob/woman_death_02.xpm ./assets/textures/mob/woman_death_03.xpm
+I_M ./assets/textures/item/goal.xpm
+I_Ha ./assets/textures/item/heal00.xpm
+I_Hb ./assets/textures/item/heal01.xpm
+I_Aa ./assets/textures/item/gear.xpm
+A ./assets/textures/prop/fountain.xpm
+
+
+
+
+             111111111111111
+           1100000000000000011
+         1100M000011a11111001111
+       11100A0000111010000100001111
+      1001000001100101M0000100001111
+     1001000011000010100110011001111
+    100111011000001101M0001M010000111
+   1001M0001000110010100M0100100100111
+  10010011100111000101M0000101001000111
+ 1001000001001110011a100100111111110001
+ 1011111010000M00000010010010M0000000011
+ 101000001000111001111001001011111111111
+ 1010111110011100010M0001001011111111111
+ 101000001000110011000011001a10000000001
+ 1E11111010001101100A00010010000111100M1
+ 101000001000110110000001001001000010011
+ 101100001000010011100011001a10001110011
+ 10010100011000100001G100001M00110000001
+ 100100100001100111000000110001000011111
+  1001001000011000000111111000101110001
+  1001000100000111111000110011001000001
+   100100011000000M000110000100100A001
+    100100001111111111111111001000001
+     1001100000M0000000M00000100M001
+      10001100000000000000001100001
+       110001111111a11100111100011
+         110M0000000001110000011
+           1100000000000000011
+             111111111111111
+                    
